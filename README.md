@@ -2,17 +2,6 @@
 
 Welcome to the Parallax Scrolling Website project! This project showcases an interactive and engaging website with a parallax scrolling effect. The website is designed using HTML5, CSS3, and JavaScript to create an immersive experience for users.
 
-[![Project Preview](https://drive.google.com/uc?id=1GFbBHTi7w8weRVqLJ7bkofezEEGg4U30)](https://parallax-website-by-vineet.netlify.app/)
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-
 ## Introduction
 
 This project is a demonstration of parallax scrolling — a web design technique that adds depth and interactivity to web pages. As users scroll down the website, the background elements move at different speeds, creating a visually captivating experience.
@@ -27,25 +16,8 @@ This project is a demonstration of parallax scrolling — a web design technique
 - **Navigation:** The header provides easy navigation links to different sections of the website.
 
 
-## Getting Started
 
-### 1. To access the project, you have two options:
-
-1. **Clone the Repository:**
-
-    If you have Git installed, you can clone the repository using the following command:
-    
-    ```bash
-   git clone https://github.com/VineetKumar02/Parallax-Website.git
-   ```
-
-    After cloning, navigate to the project directory:
-
-    ```bash
-    cd Parallax-Website
-    ```
-
-2. **Download ZIP:**
+1. **Download ZIP:**
 
     If you don't have Git installed, you can download the ZIP archive of the project. Click the "Code" button on the repository page and choose "Download ZIP." Extract the downloaded ZIP file to a location of your choice.
 
